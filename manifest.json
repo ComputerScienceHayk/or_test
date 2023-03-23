@@ -1,11 +1,11 @@
 {
-    "name": "oregon_trucker_permits",
-    "short_name": "oregon_trucker_permits",
+    "name": "Oregon trucker permits",
+    "short_name": "OTP",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#hexcode",
-    "theme_color": "#hexcode",
-    "description": "A new Flutter project.",
+    "background_color": "#0ca8ac",
+    "theme_color": "#0c343b",
+    "description": "Oregon trucker permits is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
